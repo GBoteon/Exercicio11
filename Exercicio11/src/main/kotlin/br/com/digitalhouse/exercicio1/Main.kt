@@ -9,8 +9,9 @@ fun main() {
         println(ex)
         ex.printStackTrace()
     }
+
+    //muito bom o exercicio - ass: Thais
 }
 
+ // fazendo uma alteração para subir na minha branch do git
 
-
-// matheus pode ou não ter passado por aqui
