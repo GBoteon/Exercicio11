@@ -9,4 +9,6 @@ fun main() {
         println(ex)
         ex.printStackTrace()
     }
+
+    //muito bom o exercicio - ass: Thais
 }
